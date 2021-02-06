@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/images/47f4b12ff525c081aa4c4c7243069ec4/tenor.gif?itemid=18176137" width="500">
+<img src="https://media1.tenor.com/images/47f4b12ff525c081aa4c4c7243069ec4/tenor.gif?itemid=18176137" width="500" title="Yes I love One Piece ☠" alt="Luffy saying hello!">
 
 # I'm **Shathin** 😎
 
@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Full Stack Web Development & Mobile Developement
 - 🌱 I’m currently learning about Computer Networks and Cyber Security 😎  
 - 📫 You can reach me through mail via [Gmail](shathin.rao@gmail.com)
-- ⚡ Fun fact: I love gaming! 🖤 
+- ⚡ Fun fact: I love Anime & Gaming! 🖤 
 
 ### ⚡ Technologies
 #### Front-end 
