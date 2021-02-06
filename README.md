@@ -3,6 +3,7 @@
 # I'm **Shathin** 😎
 
 
+- 🎓 I'm currently pursuing my Master's at **[IIITB](https://www.iiitb.ac.in/)**!
 - 🔭 I’m currently working on Full Stack Web Development & Mobile Developement
 - 🌱 I’m currently learning about Computer Networks and Cyber Security 😎  
 - 📫 You can reach me through mail via [Gmail](shathin.rao@gmail.com)
