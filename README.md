@@ -33,7 +33,3 @@
 #### Other Languages
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
-
-
-
-
