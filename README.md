@@ -11,5 +11,8 @@
 
 Let's connect and collaborate on exciting projects!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([your-linkedin-profile-link](https://www.linkedin.com/in/shathin-rao/))
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)]([your-instagram-profile-link](https://www.instagram.com/shathin.rao))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shathin-rao/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/shathin.rao)
+
+
+
